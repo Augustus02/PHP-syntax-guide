@@ -43,9 +43,6 @@ echo "string";
  
 echo $test;
  
-echo "<h1>this is an h1</h1>";
- 
-
 ## PHP Data Types
 
 #### Strings
